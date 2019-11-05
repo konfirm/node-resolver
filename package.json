@@ -1,0 +1,15 @@
+{
+	"name": "@konfirm/resolver",
+	"version": "0.0.0",
+	"description": "",
+	"main": "source/main.js",
+	"scripts": {
+		"test": "./node_modules/.bin/lab -vcl"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@konfirm/labrat": "^2.0.2"
+	}
+}
