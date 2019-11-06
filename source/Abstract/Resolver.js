@@ -17,7 +17,7 @@ class AbstractResolver {
 	}
 
 	/**
-	 * The normalized path of the Resolver
+	 * The path of the Resolver
 	 *
 	 * @readonly
 	 * @memberof AbstractResolver
@@ -42,7 +42,7 @@ class AbstractResolver {
 	}
 
 	/**
-	 * Does the resolver match with the key
+	 * Can the resolver match the key
 	 *
 	 * @param {*} key
 	 * @memberof AbstractResolver
