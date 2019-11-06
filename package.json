@@ -1,6 +1,6 @@
 {
 	"name": "@konfirm/resolver",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Resolver implementations to traverse into structured information",
 	"main": "source/main.js",
 	"scripts": {
