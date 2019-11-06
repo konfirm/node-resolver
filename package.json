@@ -1,14 +1,25 @@
 {
 	"name": "@konfirm/resolver",
 	"version": "0.0.0",
-	"description": "",
+	"description": "Resolver implementations to traverse into structured information",
 	"main": "source/main.js",
 	"scripts": {
 		"test": "./node_modules/.bin/lab -vcl"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/konfirm/node-resolver.git"
+	},
+	"bugs": {
+		"url": "https://github.com/konfirm/node-resolver/issues"
+	},
+	"keywords": [
+		"resolve",
+		"require",
+		"virtual"
+	],
+	"author": "Rogier Spieker <rogier+npm@konfirm.eu>",
+	"license": "MIT",
 	"devDependencies": {
 		"@konfirm/labrat": "^2.0.2"
 	}
